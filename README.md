@@ -2,6 +2,8 @@
 
 The program creates a text file with the information of the lines of the 2D drawing, opened in SolidEdge.
 
+![](https://raw.githubusercontent.com/andrea0veglia/GET_2DLINES_INFO_SOLIDEDGE/master/SE.png)
+
 ### - Install Interop.SolidEdge
 
 In order to implement the program in your solution, you need to download Interop.SolidEdge assembly. 
